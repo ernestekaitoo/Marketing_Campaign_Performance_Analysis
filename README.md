@@ -60,13 +60,11 @@ The dataset contains customer-level information related to marketing campaigns, 
 
 ### Campaign Response & Trends
 
-![Dashboard 2](https://github.com/yuvarajrajdata/marketing_campaign_insight_analysis/assets/126889862/b932a1d5-6efb-4f37-8f42-0e3d39efe2bf)
+![Dashboard 1](Pho/Dash2.png)
 
 ### Overall Campaign Performance Summary
 
-![Dashboard 3](https://github.com/yuvarajrajdata/marketing_campaign_insight_analysis/assets/126889862/ce5a19fd-1885-4a0e-94d4-265393438380)
-
----
+![Dashboard 1](Pho/Dash3.png)
 
 ## Key Insights
 
