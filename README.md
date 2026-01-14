@@ -56,7 +56,7 @@ The dataset contains customer-level information related to marketing campaigns, 
 
 ### Campaign Acceptance Overview
 
-![Dashboard 1](https://github.com/yuvarajrajdata/marketing_campaign_insight_analysis/assets/126889862/201679b1-8082-4632-91dd-fddeee1d05b2)
+![Dashboard 1](Pho/Dash1.png)
 
 ### Campaign Response & Trends
 
