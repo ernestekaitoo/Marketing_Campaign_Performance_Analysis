@@ -47,6 +47,6 @@ These visualizations provide actionable insights into which campaigns were succe
 
 ## Contributing
 
-Contributions are welcome! If you have ideas for enhancements or want to report issues, please email @ yuvarajspt1998@gmail.com or submit a pull request.
+Contributions are welcome! If you have ideas for enhancements or want to report issues, please email @ ernestekaitoo@gmail.com or submit a pull request.
 
 
